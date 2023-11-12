@@ -1,2 +1,2 @@
 # About
-In this project, I created a machine learning framework to predict the correct dosage of warfarin for patients using Python and Gradio. This application runs successfully.
+This project is designed in Python to determine the correct dosage of Warfarin drug for patients. It involved heavy utilization of the machine learning workflow to build the project. Gradio allows users to interact with the project. It is also deployed to Hugging Face for public use. 
